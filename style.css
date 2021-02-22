@@ -1,0 +1,33 @@
+a, .display-5 {
+	color: white;
+	font-family: 'Roboto',sans-serif;
+}
+
+a {
+	float: left;
+}
+
+.banner {
+	background: url(images/banner.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 120vh;
+}
+
+
+.container {
+	position: absolute;
+	bottom: -50px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    position: fixed;
+}
+
+div.nav.nav-pills {
+	float: right;
+	margin-left: 15.5rem;
+}
+
